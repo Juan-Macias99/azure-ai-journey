@@ -77,5 +77,4 @@ Each project will have its own repository linked here once completed.
 
 ## Contact
 
-- LinkedIn: *(add your URL)*
 - GitHub: [Juan-Macias99](https://github.com/Juan-Macias99)
